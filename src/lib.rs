@@ -26,7 +26,7 @@
 //! ```
 //!
 
-// #![deny(missing_docs)] // TODO: add this back in.
+// #![deny(missing_docs)] // TODO: document NodeRef & methods.
 mod document;
 mod dom_tree;
 mod element;

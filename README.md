@@ -25,6 +25,8 @@
   </a>
 </div>
 
+**NOTE WELL:** this is a temporary fork & release of the upstream [nipper](https://github.com/importcjj/nipper) crate, as the [Trunk project]() was blocked on a few needed features. These changes are intended to be merged upstream ASAP.
+
 
 Nipper based on HTML crate html5ever and the CSS selector crate selectors. You can use the jQuery-like syntax to query and manipulate an HTML document quickly. **Not only can query, but also can modify**.
 
@@ -52,7 +54,7 @@ fn main() {
 }
 ```
 
-#### Readability. 
+#### Readability.
 [examples/readability.rs](./examples/readability.rs)
 
 ## Related projects

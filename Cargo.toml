@@ -1,12 +1,12 @@
 [package]
-name = "nipper"
+name = "nipper-trunk"
 version = "0.1.9"
 description = "HTML manipulation with CSS seletors"
 license = "MIT/Apache-2.0"
-repository = "https://github.com/importcjj/nipper"
-documentation = "https://docs.rs/nipper/latest"
+repository = "https://github.com/thedodd/nipper"
+documentation = "https://docs.rs/nipper-trunk/latest"
 keywords = ["html", "css", "selector", "scraping", "crawler"]
-authors = ["importcjj <importcjj@gmail.com>"]
+authors = ["importcjj <importcjj@gmail.com>", "Anthony Dodd <Dodd.AnthonyJosiah@gmail.com>"]
 edition = "2018"
 readme = "README.md"
 
@@ -16,7 +16,7 @@ readme = "README.md"
 html5ever = "0.25.1"
 selectors = "0.22.0"
 cssparser = "0.27.2"
-tendril = "0.4.1"
+tendril = "0.4.2"
 markup5ever = "0.10.0"
 
 
